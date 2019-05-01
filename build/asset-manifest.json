@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.16ad63f2.chunk.css",
+    "main.js": "/clicky-game/static/js/main.938cb6a2.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.938cb6a2.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.9590dc6d.chunk.js": "/clicky-game/static/js/2.9590dc6d.chunk.js",
+    "static/js/2.9590dc6d.chunk.js.map": "/clicky-game/static/js/2.9590dc6d.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.2e1143bffc2a91e8c2088f23547d1427.js": "/clicky-game/precache-manifest.2e1143bffc2a91e8c2088f23547d1427.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.16ad63f2.chunk.css.map": "/clicky-game/static/css/main.16ad63f2.chunk.css.map",
+    "static/media/CascadeBrewing-Primary-LightBg-w-768x482.png": "/clicky-game/static/media/CascadeBrewing-Primary-LightBg-w-768x482.6834dfe9.png",
+    "static/media/FG_web.jpg": "/clicky-game/static/media/FG_web.1263f25f.jpg",
+    "static/media/Holy_Mountain_logo.jpg": "/clicky-game/static/media/Holy_Mountain_logo.a70eff12.jpg",
+    "static/media/Populuxe-brewing-logo-300.png": "/clicky-game/static/media/Populuxe-brewing-logo-300.71283390.png",
+    "static/media/Urban-family-logo-500.jpg": "/clicky-game/static/media/Urban-family-logo-500.0ea66d30.jpg",
+    "static/media/alesong-300x300.png": "/clicky-game/static/media/alesong-300x300.32005473.png",
+    "static/media/crucible.jpg": "/clicky-game/static/media/crucible.4a20212f.jpg",
+    "static/media/lantern_brewing_logo.jpg": "/clicky-game/static/media/lantern_brewing_logo.d6b046ed.jpg",
+    "static/media/reubens.png": "/clicky-game/static/media/reubens.8898e7fe.png",
+    "static/media/skookum.jpg": "/clicky-game/static/media/skookum.5018581f.jpg",
+    "static/media/stoup-logo1.png": "/clicky-game/static/media/stoup-logo1.003f68ac.png",
+    "static/media/threeMags.jpg": "/clicky-game/static/media/threeMags.2a80c359.jpg"
+  }
+}
